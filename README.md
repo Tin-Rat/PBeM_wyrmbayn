@@ -1,2 +1,2 @@
 # PBeM_wyrmwood
-Test Blah Blah
+Wyrmwood is a fantasy PBeM.
