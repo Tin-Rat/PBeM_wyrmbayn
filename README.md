@@ -4,3 +4,5 @@
 # The world map is basically a hex map imposed on a net formed from a truncated icosahedron. The classical icosahedron has 20 faces, 12 vertices and 30 edges. Our interpretation allows for a total of 42 hexes, comprising 12 on the vertices (should really be pentagons), 30 on the edges (one per edge, of which there are thirty) and 0 on the faces (zero per face of which there are twenty).
 # Attached files in Map folder give a basic view of the planets surface locations.
 
+# Further notes:-
+[Major Character Usefulness](Design_Notes/MC_Usefulness/README.md)
