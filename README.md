@@ -7,7 +7,6 @@
 
 ## Further notes:--
 -[Inspired by this project](https://github.com/ravenzachary/Far-Horizons)  
-
 -[Major Character Usefulness](Design_Notes/MC_Usefulness/README.md)
 
 
