@@ -5,4 +5,5 @@
 # Attached files in Map folder give a basic view of the planets surface locations.
 
 # Further notes:-
+[Inspired by this project](https://github.com/ravenzachary/Far-Horizons)
 [Major Character Usefulness](Design_Notes/MC_Usefulness/README.md)
