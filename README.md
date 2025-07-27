@@ -8,10 +8,10 @@
 ## Further notes:- 
 - [Inspired by this project](https://github.com/ravenzachary/Far-Horizons)
 - [Major Character Usefulness](Design_Notes/MC_Usefulness/README.md)
-- [Major Character Recruiting](Design_Notes/Major_Recruit/Major_Recruit_GH.md)
-- [Posse Strength](Design_Notes/Posse_Strength/PosseStrength_GH.md)
-- [Short Recruit Order](Design_Notes/Short_Recruit_Order/Short_Recruit_Order_GH.md)
-- [Social Ranking](Design_Notes/Social_Ranking/Social_Ranking_GH.md)
-- [Terrain Razing Simulation](Design_Notes/Terrain_BS/Terrain_BS_cyc_3.md)
-- [Map](Map/42_domains_map_GH.md)
+- [Major Character Recruiting](Design_Notes/Major_Recruit/README.md)
+- [Posse Strength](Design_Notes/Posse_Strength/README.md)
+- [Short Recruit Order](Design_Notes/Short_Recruit_Order/README.md)
+- [Social Ranking](Design_Notes/Social_Ranking/README.md)
+- [Terrain Razing Simulation](Design_Notes/Terrain_BS/README.md)
+- [Map](Map/README.md)
 ---
