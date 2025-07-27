@@ -1,7 +1,10 @@
 # Read me for Terrain_BS_cyc_3.py 
+@Tin-Rat
+
 
 Program to determine the number of fire starters (of average ability) required to raze different terrain types to the ground. This is a necessary step in the design process.
 
+Notable program variables
 - **Cells**: Number of distinct locations pertaining to a particular terrain.
 - **Hard**: Number of cells that are non burnable.
 - **Target No**: Slightly artificial, being the sum of the hard points and 50% of the combustible cells at the initial start conditions.
