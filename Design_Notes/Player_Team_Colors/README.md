@@ -8,3 +8,5 @@
 | 4          | Lime          | 10         |Khaki          |
 | 5          | DarkCyan      | 11         |RosyBrown      |
 | 6          | LightSteelBlue| 12         |GreenYellow    |
+
+![Color Matrix](../Player_Team_Colors/ColorMatrix.png)
