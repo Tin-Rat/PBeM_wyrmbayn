@@ -2,11 +2,11 @@
 
 | Player No. | Colour Name   | Player No. |Colour Name    |
 | :--------: | :-----------: | :--------: | :-----------: |
-| 1          | DeepSkyBlue   | 7          |DarkKhaki      |
-| 2          | MediumOrchid  | 8          |LightPink      |
-| 3          | DarkOrange    | 9          |MediumPurple   |
-| 4          | Lime          | 10         |Khaki          |
-| 5          | DarkCyan      | 11         |RosyBrown      |
-| 6          | LightSteelBlue| 12         |GreenYellow    |
+| 1          | DeepSkyBlue   | 7          |RosyBrown      |
+| 2          | DarkOrange    | 8          |DarkCyan       |
+| 3          | Lime          | 9          |MediumOrchid   |
+| 4          | LightPink     | 10         |GreenYellow    |
+| 5          | Olive         | 11         |LightSteelBlue |
+| 6          | MediumPurple  | 12         |Khaki          |
 
-![Color Matrix](../Player_Team_Colors/ColorMatrix.png)
+![Color Matrix](../Player_Team_Colors/ColorMatrixv2.png)
