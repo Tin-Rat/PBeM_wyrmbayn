@@ -1,4 +1,4 @@
-# Default Player Team Colours ##
+# Default Player Team Colours #
 
 | Player No. | Colour Name   | Player No. |Colour Name    |
 | :--------: | :-----------: | :--------: | :-----------: |
@@ -10,3 +10,16 @@
 | 6          | MediumPurple  | 12         |Khaki          |
 
 ![Color Matrix](../Player_Team_Colors/ColorMatrixv2.png)
+
+# Alternative Team Colours and Display Palette #
+| Ref. | Colour Name   | Ref. |Colour Name    | Ref. |Colour Name    | Ref. |Colour Name    | Ref. |Colour Name    |
+| :--: | :-----------: | :--: | :-----------: | :--: | :-----------: | :--: | :-----------: | :--: | :-----------: |
+| A    | LightCoral    | G    | DarkGoldenRod | M    | LimeGreen     | R    | Aqua          | W    | Violet        |
+| B    | Silver        | H    | DarkKhaki     | N    | DarkSeaGreen  | S    | CadetBlue     | X    | Plum          |
+| C    | Gray          | I    | Yellow        | O    | SeaGreen      | T    | LightSkyBlue  | Y    |MediumVioletRed|
+| D    | OrangeRed     | J    | YellowGreen   | P    | MediumSeaGreen| U    |MediumSlateBlue| Z    | DeepPink      |
+| E    | SandyBrown    | K    | Chartreuse    | Q    | SpringGreen   | V    | BlueViolet    | AA   | Crimson       |
+| F    | Orange        | L    | PaleGreen     |      |               |      |               |      |               |
+
+
+
