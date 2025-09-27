@@ -21,5 +21,8 @@
 | E    | SandyBrown    | K    | Chartreuse    | Q    | SpringGreen   | V    | BlueViolet    | AA   | Crimson       |
 | F    | Orange        | L    | PaleGreen     |      |               |      |               |      |               |
 
+# Recommended display and turn sheet colours for diagrams and player feedback #
+
+[Palette](../Player_Team_Colors/Matrix13_3.png)
 
 
