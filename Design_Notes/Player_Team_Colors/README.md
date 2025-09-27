@@ -23,6 +23,6 @@
 
 # Recommended display and turn sheet colours for diagrams and player feedback #
 
-[Palette](../Player_Team_Colors/Matrix13_3.png)
+![Palette](../Player_Team_Colors/Matrix13_3.png)
 
 
