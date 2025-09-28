@@ -1,15 +1,12 @@
 # Default Player Team Colours #
 
-| Player No. | Colour Name   | Player No. |Colour Name    |
-| :--------: | :-----------: | :--------: | :-----------: |
-| 1          | DeepSkyBlue   | 7          |RosyBrown      |
-| 2          | DarkOrange    | 8          |DarkCyan       |
-| 3          | Lime          | 9          |MediumOrchid   |
-| 4          | LightPink     | 10         |GreenYellow    |
-| 5          | Olive         | 11         |LightSteelBlue |
-| 6          | MediumPurple  | 12         |Khaki          |
+| Player No. | Colour Name   | Player No. |Colour Name    | Player No. | Colour Name   | Player No. |Colour Name    |
+| :--------: | :-----------: | :--------: | :-----------: | :--------: | :-----------: | :--------: | :-----------: |
+| 1          | DeepSkyBlue   | 4          | LightPink     | 7          |RosyBrown      | 10         |GreenYellow    |
+| 2          | DarkOrange    | 5          | Olive         | 8          |DarkCyan       | 11         |LightSteelBlue |   
+| 3          | Lime          | 6          | MediumPurple  | 9          |MediumOrchid   | 12         |Khaki          |
 
-![Color Matrix](../Player_Team_Colors/ColorMatrixv2.png)
+![Color Matrix](../Player_Team_Colors/mat12_1.png)
 
 # Alternative Team Colours and Display Palette #
 | Ref. | Colour Name   | Ref. |Colour Name    | Ref. |Colour Name    | Ref. |Colour Name    | Ref. |Colour Name    |
@@ -24,5 +21,4 @@
 # Recommended display and turn sheet colours for diagrams and player feedback #
 
 ![Palette](../Player_Team_Colors/Matrix13_3.png)
-
 
