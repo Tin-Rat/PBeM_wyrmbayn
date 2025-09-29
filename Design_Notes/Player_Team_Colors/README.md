@@ -6,7 +6,7 @@
 | 2          | DarkOrange    | 5          | Olive         | 8          |DarkCyan       | 11         |LightSteelBlue |   
 | 3          | Lime          | 6          | MediumPurple  | 9          |MediumOrchid   | 12         |Khaki          |
 
-![Color Matrix](../Player_Team_Colors/mat12_1.png)
+![Color Matrix](../Player_Team_Colors/mat12_1Boost.png)
 
 # Alternative Team Colours and Display Palette #
 | Ref. | Colour Name   | Ref. |Colour Name    | Ref. |Colour Name    | Ref. |Colour Name    | Ref. |Colour Name    |
