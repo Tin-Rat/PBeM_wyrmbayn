@@ -3,7 +3,7 @@
 
 ***Version 1.01***
 
-***© Kevin Joyce 2025***
+***© Kevin Joyce 2025, 2026***
 
 ---
 
@@ -732,57 +732,182 @@ Similar to Demolish Order discussed above.
 
 
 <h4 id="recruit">Recruit Order</h4>
+(Available to all Majors)
+<p>
+The Major Character(MC) attempts to recruit another major character of a specific type.
+
+Example:- 
+<span style="background-color: #00FFFF">Monarch Recruit Jester</span>
+</p>
+<p>
+Note
+
+1. Only a maximum of 10 characters can be recruited.
+2. No more than one of any particular major character type can serve your house at any given time. i.e. You cannot have 2 priests or 2 jesters, but if your gardener dies you can replace him/her.
+3. There are severe restrictions on what types of characters a particular character can recruit. For example a Monk may only recruit Gardeners, Priests and Shamans. See the CHARACTER TYPES section of the rulebook for a fuller discussion.
+</p>
 
 <h4 id="p18"><span style="background-color: #FFFF00">Page 18.</span></h4>
 
 <h4 id="stake">Stake Order</h4>
+(Alchemist, Count, Explorer or Priest)
 
+The major character will destroy the Count he has found sleeping by hammering a stake through his heart.
+<p>
+Example:-
+<span style="background-color: #00FFFF">Priest Stake Count Aaron</span>
 
+The Priest character will destroy Count Aaron by staking him through the heart.
+</p>
+<p>
+Note
+
+1. If the victim’s house name is omitted from the order then it is assumed that the major is destroying the Count belonging to his/her own house, i.e. a blue on blue incident.
+2. Only Alchemists, Counts, Explorers or priests can implement this order.
+3. A staked count is in effect ‘killed’ and plays no further part in the game. (Although a replacement Count can be recruited by a Grave Digger, for example.)
+</p>
 <h4 id="mcr">Minor Character Recruitment</h4>
+<p>
+There is a strict social order that is used to determine who recruits any available minor characters at a given location. Minor characters will volunteer for service to the highest ranked major character present at the same location (i.e. the same map reference.)  If the major character has already recruited a full posse, then the surplus will be made available to the next lower socially ranked major character, except where inverted snobbery is involved, see note 1 below, where the next higher socially ranked major character is favoured.
+</p>
+
+|The |social | order:-    |          | | |
+|:---:|:------------:|:---:|:------------:|:---:|:------------:|         
+|1.   | Monarch      | 10. | Crow Master  | 19. | Seamstress   |
+|2.   | Count        | 11. | Shaman       | 20. | Mechanic     |
+|3.   | Priest       | 12. | Archaeologist| 21. | Merchant     |
+|4.   | Alchemist    | 13. | Mason        | 22. | Ploughman    |
+|5.   | Couturier    | 14. | Farmer       | 23. | Grave Digger |
+|6.   | Knave        | 15. | Necromancer  | 24. | Retrobate    |
+|7.   | Monk         | 16. | Explorer     | 25. | Jester       |
+|8.   | Botanist     | 17. | Gardener     |     |              |
+|9.   | Sculptor     | 18. | Waxworker    |     |              |
+<p>
+Note
+
+1. Demons, Odd Bods, Scarecrows, Skeletons, Tar Babies, Triffids, Werewolves and Zombies suffer from inverted snobbery and will volunteer service to the lowest ranking major first then to the second lowest etc.
+2. The numbers available for recruiting, for any particular minor character type, within different terrains is given in the ‘Density’ column of the main table found in the TERRAINS section of the rules.
+</p>
 
 <h4 id="p19"><span style="background-color: #FFFF00">Page 19.</span></h4>
 
 <h4 id="rally">Rallying</h4>
+<p>
+After combat resolution the surviving minor characters will rally back to their respective major characters. However in the (likely) event that there were heavy casualties then they will rally to the most appropriate major based on his social standing. However no major character will be allowed a greater retinue than the one he moved to the location with.
+</p><p>
+Example.
+A Count and a Botanist both belonging to house ‘A’ move to a location. The Count has a retinue of 6 zombies whilst the Botanist has a retinue of 4 zombies, making a total of 10 zombies. In an ensuing battle with house ‘B’ the Zombies suffer 5 casualties but win the day.
+</p><p>
 
-
+The zombies suffering from inverted snobbery would rally at first to the Botanist who would regain his retinue of 4 zombies leaving the Count with only 1 zombie in his retinue.
+<p>
 <h4 id="discor">Discorporation</h4>
-
+<p>
+If after the rallying phase a major character finds that his retinue has been reduced to zero then he will discorporate (disappear). 
+</p><p>
+Note:-
+There is one exception – Counts never discorporate even if they have no followers.
+</p>
 
 <h4 id="blood">BloodFeast</h4>
+<p>
+Every major character has a health score expressed as a percentage. Counts have the  ability to increase their health score by feeding on any major characters (of the same house) they find at the same location.
+A count will take up to 10% in health score from any major – however he will never bring his score up to above 100% and will stop feeding once he reaches 100%.
+</p><p>
 
+Note
+
+1. You can only feed off major characters belonging to your house.
+2. ‘Bloodfeast’ happens automatically – its up to you to ensure that your major characters keep away.
+3. Counts will preferentially feed off higher social ordered majors, i.e. Priests before Alchemists etc.
 
 <h4 id="grim">Grim Reaper</h4>
-
+<p>
+This is a further culling of the major characters. Any major character with zero health score is removed.
+</p><p>
+Note:- The one exception is Counts who are ‘undead’ and need to be staked as well as having zero health, this is explained above in the Stake order.
+</p>
 <h4 id="p20"><span style="background-color: #FFFF00">Page 20.</span></h4>
 
-<h4 id="cata">Cataleptic Sleep</h4>
+<h4 id="cata">Cataleptic Sleep</h4><p>
+Any Count with zero health score will fall into a deep sleep. This will make him vulnerable to staking.
+</p>
 
-
-<h4 id="spy">Spying</h4>
-
-
-<h4 id="comb">Combat Resolution</h4>
-
+<h4 id="spy">Spying</h4><p>
+Major characters will report on any of the 5 or 6 adjoining locations.
+The terrain at all map locations will always be shown.
+</p><p>
+Certain intelligence such as the location of sleeping Counts will not be displayed on the map itself but the information will be made available in the ‘Other Reports’ section of the turn-sheet.
+</p>
+<h4 id="comb">Combat Resolution</h4><p>
+(may be revised)
+(This version omits ranged weapons, only melee combat is considered.)
+</p><p>
+Combat takes place immediately after the movement phase.
+</p><p>
+There is no system for recognising allies in this game, therefore all the forces that belong to another player that appear in a location where you have characters will be treated as hostile. If you meet forces belonging to two or more players then your attacks will be split equally between your foes. This applies even if one player opposing you has greater numbers than the other(s).
+Major characters play no part in combat although their presence is noted in battle reports.
+</p><p>
+Dexterity plays an important part in combat resolution. Each round of combat is divided into 6 stages.
+In stage 1 only minors with a dexterity of 7 may inflict damage on their opponents.
+In stage 2 only minors with a dexterity of 6 may inflict damage on their opponents.
+This continues in a similar manner until stage 6 when only minors with a dexterity of 2 may inflict damage.
+</p><p>
+The damage inflicted in each stage is determined by the ‘strength’ values of the particular minors that are doing the attacking and the number of minors involved in the attack.
+After each stage above a check is made for casualties, certain thresholds of damage will result in the reduction  of the number of minors in the affected posses.
+Several rounds of combat will ensue until only the forces of one (or none) house remain.
+</p>
+<p>
 <h4 id="p21"><span style="background-color: #FFFF00">Page 21.</span></h4>
 
-<h4 id="casu">Casualties</h4>
+<h4 id="casu">Casualties</h4><p>
+It is assumed that your enemies will try to take out your most dangerous minor characters first.
+In the table/list below characters nearer the top will be taken out first.</p><p>
+Explanation:
+Characters with the highest dexterity are taken out first. The other factors used to determine the cascade of casualties, in order of decreasing importance are hits, strength and finally alphabetical order.</p><p>
+Cascade of casualties (Werewolves most targeted, Triffids least so).
 
+|     |             ||||                                 |
+|:---:|:------------:|:---:|:------------:|:---:|:------------:|
+|1.   | Werewolves   | 8.  |  Androids    |15.  |   Puppets    | 
+|2.   | Gargoyles    | 9.  |  Odd Bods    |16.  |   Homunculii | 
+|3.   | Vampires     | 10. |  Skeletons   |17.  |   Manikins   | 
+|4.   | Greenmen     | 11. |  Scarecrows  |18.  |   Robots     | 
+|5.   | Tar Babies   | 12. |  Tin Men     |19.  |   Triffids   | 
+|6.   | Corn Dollies | 13. |  Zombies     |     |              | 
+|7.   | Demons       | 14. |  Mummies     |     |              | 
 
-<h4 id="ccp">Computer Controlled Positions</h4>
-
+</p>
+<h4 id="ccp">Computer Controlled Positions</h4><p>
+In the event of a player dropping out his position will become computer controlled. Units belonging to computer controlled positions will try to attack the highest ranking player. If this is not possible then the second highest player will be attacked, and so on.
+</p><p>
+Please keep your account in credit to the tune of at least one turn fee, otherwise your position may inadvertently become computer controlled in the event that your turn submittal just misses the deadline.
+</p><p>
+It may be possible to ‘buy back’ a computer controlled position at the discretion of the G.M. However you may find your position weakened by just one turn of computer control.
+</p>
 <h4 id="p22"><span style="background-color: #FFFF00">Page 22.</span></h4>
 
-<h4 id="league">League Tables</h4>
+<h4 id="league">League Tables</h4><p>
+Your turn-sheet will include league tables shoeing the ranking by the number of forts controlled.
+</p>
+<h4 id="win">Winning a Game of Wyrmbayn</h4><p>
+To win a game of Wyrmbayn you must achieve one of the following:-
 
+1. Have the only surviving Count at the end of the turn.
+2. Own more than half of the remaining forts, (or the only fort in existence). 
+</p>
 
-<h4 id="win">Winning a Game of Wyrmbayn</h4>
+<h4 id="coo">Change of Ownership</h4><p>
+Tests for change of ownership of individual locations is performed after combat resolution, (before discorporation and sleeping stages).
+</p><p>
+Any locations where combat had occurred will change to, or remain in, the ownership of whichever house is in possession of the field. 
+</p>
 
-
-<h4 id="coo">Change of Ownership</h4>
-
-
-<h4 id="diplo">Diplomacy</h4>
-
+<h4 id="diplo">Diplomacy</h4><p>
+Usually, with your first turnsheet, you will receive contact details of other players (if they have given permission).
+</p><p>
+It is possible to win without ‘diploming’, but maybe, perhaps easier with it.
+</p>
 
 <h4 id="p23"><span style="background-color: #FFFF00">Page 23.</span></h4>
 
