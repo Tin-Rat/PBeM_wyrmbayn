@@ -1,5 +1,5 @@
 
-![*wyrmbayn*](./Title.png "wyrmbayn")
+# wyrmbayn  <!--(./Title.png "wyrmbayn") -->
 
 ***Version 1.01***
 
