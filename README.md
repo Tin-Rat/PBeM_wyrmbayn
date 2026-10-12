@@ -6,7 +6,7 @@
 ## Attached files in Map folder give a basic view of the planets surface locations.
 
 ## Further notes:- 
-- [Tgit his project inspired by](https://github.com/ravenzachary/Far-Horizons)
+- [This project inspired by](https://github.com/ravenzachary/Far-Horizons)
 - [Major Character Usefulness](Design_Notes/MC_Usefulness/README.md)
 - [Major Character Recruiting](Design_Notes/Major_Recruit/README.md)
 - [Posse Strength](Design_Notes/Posse_Strength/README.md)
