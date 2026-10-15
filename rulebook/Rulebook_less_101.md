@@ -21,7 +21,7 @@ This foreword will be modified to reflect any subsequent changes, as the project
 
 ---
 
-<span style="background-color: #FFFF00">**Page 1.**</span>
+<span style="background-color: #FFFF00">**Page 1.** 🅿️1️⃣</span>
 
 **CONTENTS**
 <!---  comments --->
@@ -143,7 +143,7 @@ This foreword will be modified to reflect any subsequent changes, as the project
 </tablebody>
 </table>
 
-<h4 id="p2"><span style="background-color: #FFFF00">Page 2.</span></h4>
+<h4 id="p2"><span style="background-color: #FFFF00">Page 2. 🅿️2️⃣</span></h4>
 
 <h4 id="intro">Intro.</h4>
 
