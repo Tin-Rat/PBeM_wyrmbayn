@@ -656,6 +656,18 @@ TBA
 |Sculptor    |   🗿   |   |Seamstress  |   🕸️   |   |Shamen     |   🍄   |
 |Wax Worker  |   🕯️   |   |            |        |   |           |        |
 
+## Minor Characters
+
+| Type       | Symbol |   | Type       | Symbol |   | Type      | Symbol |
+|:----------:|:------:|:-:|:----------:|:------:|:-:|:---------:|:------:|
+|Androids    |   👽   |   |Corn Dollies|   🪆   |   |Demons     |   👿   |
+|Gargoyles   |   👹   |   |Greenmen    |   🧌   |   |Homunculii |   🐧   |
+|Manikins    |   😵   |   |Mummies     |   🤕   |   |Odd Bods   |   🤢   |
+|Puppets     |   🧸   |   |Robots      |   🤖   |   |Scarecrows |   🎃   |
+|Skeletons   |   💀   |   |Tar Babies  |   ♟️   |   |Tin men    |   🤺   |
+|Triffids    |   🥀   |   |Vampires    |   🧛   |   |Werewolves |   🐺   |
+|Zombies     |   🧟   |   |            |        |   |           |        |
+
 <h4 id="p14"><span style="background-color: #FFFF00">Page 14.</span></h4>
 
 <h4 id="movement">Movement.</h4>
