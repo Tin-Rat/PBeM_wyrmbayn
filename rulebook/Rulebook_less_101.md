@@ -183,28 +183,28 @@ Minor characters are automatically recruited by major characters at the start of
 
 Major characters can also recruit other majors – the ‘Recruit’ order is used for this.  There are limitations as to which characters can be recruited by a particular major character.
 
-***Alchemist***
+***Alchemist*** 🧑‍🔬
 Health:-  Max 100%   Movement penalty:-   -10%(minus)
   Health Restoration; Resting:-  +3%(plus)
     Resting at Laboratory:-  +50%(plus)
 Recruits Major:- Archaeologist, Botanist, Shaman and Grave Digger.
   Minor:- Demons, Homunculii and Odd Bods.
 
-***Archaeologist***
+***Archaeologist*** 🧗‍♀️
 Health:-  Max 95%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Jungle or Desert:-  +20%(plus)
 Recruits Major:- Grave Digger.
   Minor:- Gargoyles, Mummies and Skeletons.
 
-***Botanist***
+***Botanist*** 🌻
 Health:-  Max 95%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Garden, Jungle or Woods:-  +15%(plus)
 Recruits Major:- Farmer and Gardener.
   Minor:- Greenmen, Triffids and Zombies.
 
-***Count***
+***Count*** 🦇
 Health:-  Max 100%  Movement penalty:-   -20%(minus)
  Health Deterioration; Resting:-  -2%(minus)
     Resting in a Fort:-  -1%(minus)
@@ -213,49 +213,49 @@ Recruits Any Major except another Count.
 
 <h4 id="p4"><span style="background-color: #FFFF00">Page 4.</span></h4>
 
-***Couturier***
+***Couturier*** 🦚
 Health:-  Max 95%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
         Resting in a Mall:-  +25%(plus)
 Recruits Major:- Seamstress.
   Minor:- Manikins, Puppets and Zombies.
 
-***Crow Master***
+***Crow Master*** 🦅
 Health:-  Max 90%  Movement penalty:-   -8%(minus)
  Health Restoration; Resting:-  +4%(plus)
     Resting in Garden, Plain or Woods:-  +12%(plus)
 Recruits Major:- Farmer, Ploughman and Merchant.
   Minor:- Corn Dollies, Scarecrows and Tar Babies.
 
-***Explorer***
+***Explorer*** 🌍
 Health:-  Max 100%  Movement penalty:-   -9%(minus)
  Health Restoration; Resting:-  +4%(plus)
    Resting in Garden, Jungle, Desert or Woods:-  +10%(plus)
 Recruits Major:- Archaeologist.
   Minor:- Triffids, Werewolves and Zombies.
 
-***Farmer***
+***Farmer*** 🧑‍🌾
 Health:-  Max 95%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Garden:-  +15%(plus)
 Recruits Major:- Crow Master, Gardener and Ploughman.
   Minor:- Greenmen, Scarecrows and Werewolves.
 
-***Gardener***
+***Gardener*** 🌶
 Health:-  Max 95%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Garden:-  +15%(plus)
 Recruits Major:- Grave Digger and Botanists.
   Minor:- Greenmen, Scarecrows and Triffids.
 
-***Grave Digger***
+***Grave Digger*** ⛏
 Health:-  Max 50%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Church:-  +10%(plus)
 Recruits Major:- Alchemist, Archaeologist, Count, Mason, Monk, Necromancer, Priest, Shaman and Wax Worker.
   Minor:- Demons, Skeletons and Vampires.
 
-***Jester***
+***Jester*** 🤡
 Health:-  Max 60%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Fort:-  +15%(plus)
@@ -264,49 +264,49 @@ Recruits Major:- Knave only.
 
 <h4 id="p5"><span style="background-color: #FFFF00">Page 5.</span></h4>
 
-***Knave***
+***Knave*** 🤵
 Health:-  Max 100%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Fort:-  +15%(plus)
 Recruits Major:- Couturier, Jester and Retrobate.
   Minor:- Tar Babies, Tinmen and Werewolves.
 
-***Mason***
+***Mason*** 📐
 Health:-  Max 90%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Church, Fort or Temple;:-  +10%(plus)
 Recruits Major:- Grave Digger and Sculptor.
   Minor:- Gargoyles, Mummies and Odd Bods.
 
-***Mechanic***
+***Mechanic*** 🧑‍🔧
 Health:-  Max 95%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Scrapyard:-  +15%(plus)
 Recruits Major:- Merchant only.
   Minor:- Androids, Robots and Tar Babies.
 
-***Merchant***
+***Merchant*** 🛒
 Health:-  Max 95%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Scrapyard:-  +15%(plus)
 Recruits Major:- Alchemist, Crow master, Mechanic and Sculptor.
   Minor:- Robots, Tinmen and Triffids.
 
-***Monarch***
+***Monarch*** 👑
 Health:-  Max 80%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Fort:-  +15%(plus)
 Recruits Major:- Count, Couturier, Explorer, Gardener, Jester, Knave, Mason    and Sculptor.
   Minor:- Androids, Odd Bods and Tinmen.
 
-***Monk***
+***Monk*** 🦉
 Health:-  Max 100%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Church, Temple or Fort:-  +10%(plus)
 Recruits Major:- Gardener, Priest and Shaman.
   Minor:- Demons, Gargoyles and Skeletons.
 
-***Necromancer***
+***Necromancer*** ☠️
 Health:-  Max 50%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Church, Temple or Fort:-  +10%(plus)
@@ -315,49 +315,49 @@ Recruits Major:- Alchemist, Grave Digger and Shaman.
 
 <h4 id="p6"><span style="background-color: #FFFF00">Page 6.</span></h4>
 
-***Ploughman***
+***Ploughman*** 🤠
 Health:-  Max 100%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Garden, Plain or Woods:-  +10%(plus)
 Recruits Major:- Crow Master only.
   Minor:- Corn Dollies, Scarecrows and Greenmen.
 
-***Priest***
+***Priest*** 😇
 Health:-  Max 90%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Church or Temple:-  +10%(plus)
 Recruits Major:- Grave Digger and Monk.
   Minor:- Corn Dollies, Gargoyles and Vampires.
 
-***Retrobate***
+***Retrobate*** 🦝
 Health:-  Max 75%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Church or Temple:-  +10%(plus)
 Recruits Major:- Jester Only.
   Minor:- Corn Dollies, Homunculii and Tar Babies.
 
-***Sculptor***
+***Sculptor*** 🗿
 Health:-  Max 90%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Church or Temple:-  +10%(plus)
 Recruits Major:- Mason and Wax Worker.
   Minor:- Androids, Manikins and Robots.
 
-***Seamstress***
+***Seamstress*** 🕸️
 Health:-  Max 90%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Mall:-  +20%(plus)
 Recruits Major:- Couturier and Wax Worker.
   Minor:- Manikins, Mummies and Puppets.
 
-***Shaman***
+***Shaman*** 🍄
 Health:-  Max 100%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Church, Garden, Jungle, Plain, Temple or     Woods:-  +8%(plus)
 Recruits Major:- Monk only.
   Minor:- Homunculii, Puppets and Vampires.
 
-***Wax Worker***
+***Wax Worker*** 🕯️
 Health:-  Max 90%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Mall:-  +20%(plus)
