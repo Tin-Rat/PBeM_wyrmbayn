@@ -570,11 +570,11 @@ TBA
 
 ## Terrain Types
 
-| Type    | Symbol | Type     | Symbol | Type    | Symbol | Type    | Symbol |
-|:-------:|:------:|:--------:|:------:|:-------:|:------:|:-------:|:------:|
-|Church   |   ⛪   |Desert    |   🏜️   |Fort     |   🏰   |Garden   |   🏞️   |
-|Jungle   |   🥦   |Laboratory|  🏭    |Mall     |  🏬    |Plain    |   🧩   |
-|Ruins    |   🏚️   |Scrapyard |   🏗️   |Temple   |   ⛩️   |Woods    |   🌲   |
+| Type    | Symbol |   | Type     | Symbol |   | Type    | Symbol |   | Type    | Symbol |
+|:-------:|:------:|:-:|---------:|:------:|:-:|:-------:|:------:|:-:|:-------:|:------:|
+|Church   |   ⛪   |   |Desert    |   🏜️   |   |Fort     |   🏰   |   |Garden   |   🏞️   |
+|Jungle   |   🥦   |   |Laboratory|  🏭    |   |Mall     |  🏬    |   |Plain    |   🧩   |
+|Ruins    |   🏚️   |   |Scrapyard |   🏗️   |   |Temple   |   ⛩️   |   |Woods    |   🌲   |
 
 <h4 id="p14"><span style="background-color: #FFFF00">Page 14.</span></h4>
 
