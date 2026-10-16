@@ -183,14 +183,20 @@ Minor characters are automatically recruited by major characters at the start of
 
 Major characters can also recruit other majors – the ‘Recruit’ order is used for this.  There are limitations as to which characters can be recruited by a particular major character.
 
-***Alchemist*** 🧑‍🔬
+***Alchemist***
+
+🧑‍🔬
+
 Health:-  Max 100%   Movement penalty:-   -10%(minus)
   Health Restoration; Resting:-  +3%(plus)
     Resting at Laboratory:-  +50%(plus)
 Recruits Major:- Archaeologist, Botanist, Shaman and Grave Digger.
   Minor:- Demons, Homunculii and Odd Bods.
 
-***Archaeologist*** 🧗‍♀️
+***Archaeologist***
+
+🧗‍♀️
+
 Health:-  Max 95%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
     Resting in Jungle or Desert:-  +20%(plus)
@@ -204,7 +210,9 @@ Health:-  Max 95%  Movement penalty:-   -10%(minus)
 Recruits Major:- Farmer and Gardener.
   Minor:- Greenmen, Triffids and Zombies.
 
-***Count*** 🦇
+***Count***
+🦇
+
 Health:-  Max 100%  Movement penalty:-   -20%(minus)
  Health Deterioration; Resting:-  -2%(minus)
     Resting in a Fort:-  -1%(minus)
@@ -213,7 +221,8 @@ Recruits Any Major except another Count.
 
 <h4 id="p4"><span style="background-color: #FFFF00">Page 4.</span></h4>
 
-***Couturier*** 🦚
+***Couturier***
+🦚
 Health:-  Max 95%  Movement penalty:-   -10%(minus)
  Health Restoration; Resting:-  +5%(plus)
         Resting in a Mall:-  +25%(plus)
@@ -558,6 +567,14 @@ TBA
 <h4 id="p13"><span style="background-color: #FFFF00">Page 13.</span></h4>
 
 <h4 id="ye">< for ye olde mappe legend ></h4>
+
+## Terrain Types
+
+| Type    | Symbol | Type     | Symbol | Type    | Symbol | Type    | Symbol |
+|:-------:|:------:|:--------:|:------:|:-------:|:------:|:-------:|:------:|
+|Church   |   ⛪   |Desert    |   🏜️   |Fort     |   🏰   |Garden   |   🏞️   |
+|Jungle   |   🥦   |Laboratory|  🏭    |Mall     |  🏬    |Plain    |   🧩   |
+|Ruins    |   🏚️   |Scrapyard |   🏗️   |Temple   |   ⛩️   |Woods    |   🌲   |
 
 <h4 id="p14"><span style="background-color: #FFFF00">Page 14.</span></h4>
 
